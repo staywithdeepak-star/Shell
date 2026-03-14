@@ -46,3 +46,4 @@ else
 fi
 
 cat $TMPFILE
+echo "Love is completed"
